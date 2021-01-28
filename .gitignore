@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# vscode
+.vscode/
+
+# Steampy keys and secrets
+Steamguard.txt
+keys.json
+
+# https://github.com/steamguard-totp/steamguard-shared-secret repository in case that is used
+steamguard-shared-secret/
